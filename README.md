@@ -46,3 +46,8 @@ This project demonstrates how data visualization can help users compare rental l
 ## Interactive Tableau Dashboard
 
 [Click here to explore my dashboard](https://public.tableau.com/views/NEXTRESIDENTIALREALESTATEENTERPRISE/NEXTCommercialRealEstateBusiness?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+## Dashboard Preview
+
+![Real Estate Rental Dashboard](Real_Estate_Rental_Price_Analysis_and_Market_Intelligence.png) 
