@@ -50,4 +50,4 @@ This project demonstrates how data visualization can help users compare rental l
 
 ## Dashboard Preview
 
-![Real Estate Rental Dashboard](Real_Estate_Rental_Price_Analysis_and_Market_Intelligence.png) 
+![Real Estate Rental Dashboard](Real%20Estate%20Rental%20Price%20Analysis%20and%20Market%20Intelligence.png)
