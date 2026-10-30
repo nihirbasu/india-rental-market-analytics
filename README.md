@@ -1,4 +1,4 @@
-# india-rental-market-analytics
+# India-rental-market-analytics
 Tableau dashboard analysing rental prices across six Indian cities by locality, BHK configuration, and furnishing status.
 Real Estate Rental Price Analysis and Market Intelligence
 
